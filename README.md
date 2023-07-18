@@ -2,4 +2,4 @@
 
 Colletion of Interesting Blogs I came across
 
-- [StackOverFlow - Software Building](https://stackoverflow.com/questions/62285558/fromroute-does-not-set-url-parameters-in-separate-dto-class)
+- [StackOverFlow - Software Building](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
